@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     //Вариант 4
-    public static double a = 0, b = 5, h = Math.pow(10, -3);
+    public static double a = 0, b = 5, h = Math.pow(10, -6);
     public static double result = 0;
 
     public static void main(String[] args) {
